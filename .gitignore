@@ -1,0 +1,4 @@
+.idea/
+*.iml
+### out est le dossier qui contient tous les fichiers générés ###
+out/
