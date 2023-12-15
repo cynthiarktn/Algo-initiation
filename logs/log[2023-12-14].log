@@ -1,0 +1,14 @@
+[DEBUG] 2023-12-14 16:32:47.285 [main] Demo - Un log informatif.
+[INFO ] 2023-12-14 16:32:47.290 [main] Demo - Un log informatif.
+[WARN ] 2023-12-14 16:32:47.291 [main] Demo - Un log d'alerte pas trop méchant.
+[ERROR] 2023-12-14 16:32:47.291 [main] Demo - Un log pour signaler une erreur qui n'a pas fait planter l'application.
+[FATAL] 2023-12-14 16:32:47.291 [main] Demo - Un log pour signaler une erreur qui est susceptible de faire planter l'application.
+[DEBUG] 2023-12-14 16:34:14.169 [main] Demo - Un log utile en phase de développement ou pour le debug.
+[INFO ] 2023-12-14 16:34:14.171 [main] Demo - Un log informatif.
+[WARN ] 2023-12-14 16:34:14.171 [main] Demo - Un log d'alerte pas trop méchant.
+[ERROR] 2023-12-14 16:34:14.171 [main] Demo - Un log pour signaler une erreur qui n'a pas fait planter l'application.
+[FATAL] 2023-12-14 16:34:14.172 [main] Demo - Un log pour signaler une erreur qui est susceptible de faire planter l'application.
+[INFO ] 2023-12-14 16:38:10.466 [main] Demo - Un log informatif.
+[WARN ] 2023-12-14 16:38:10.468 [main] Demo - Un log d'alerte pas trop méchant.
+[ERROR] 2023-12-14 16:38:10.468 [main] Demo - Un log pour signaler une erreur qui n'a pas fait planter l'application.
+[FATAL] 2023-12-14 16:38:10.469 [main] Demo - Un log pour signaler une erreur qui est susceptible de faire planter l'application.
